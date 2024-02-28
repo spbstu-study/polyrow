@@ -1,0 +1,9 @@
+token.ini
+**/__pycache__
+/.vscode
+/.idea
+/venv
+/.venv
+/mypy.ini
+row.db
+/.mypy_cache
