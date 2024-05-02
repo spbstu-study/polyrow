@@ -21,6 +21,13 @@ PolyRow - телеграм-бот для секции гребли в Полит
 
     `docker stop <container_name>`
 
+## Диаграммы C4, уровни 1 и 2
+Уровень контекста:
+![structurizr-SystemContext-001](https://github.com/spbstu-study/polyrow/assets/102620742/713aed49-26b5-4efb-a55c-f925cdd3c5c4)
+
+Уровень контейнеров:
+![structurizr-Container-001](https://github.com/spbstu-study/polyrow/assets/102620742/85c36fab-2712-4987-8a7b-cb10166a7947)
+
 ## Наша команда
 - Бавыкин Александр
 - Савраненко Артём
